@@ -1,0 +1,97 @@
+.Grey {
+    
+    background-color: grey;
+    
+   }
+
+h1 {
+  font-size : 90px ; 
+
+
+
+
+}
+
+
+
+
+nav {
+     background-color: blue;
+     color : white ; 
+     position : fixed ; 
+     width: 100vw ;
+     height: 60px ; 
+     top : 0 ; 
+     left : 0 ;
+}
+
+
+
+.para-elem {
+    color : red ;
+}
+
+#abc {
+    color : green ;
+}
+
+p[class="firstclass"] {
+    color : purple !important; 
+}
+
+#main > p {
+    color :gold ; 
+}
+
+div[class="firstclass"] {
+
+    color : blue
+}
+
+
+.box {
+
+    border : 2px solid black; 
+   color : black ;
+   padding: 10px;
+   line-height: 5px;
+   text-align: center;
+   width: 200px;
+   }
+   
+.Banner {
+     background-color: black;
+      color : green  ; 
+    line-height: 3;
+    
+
+    width: 400;
+    top: 0;    
+    left: 0 ; 
+  
+   
+   }
+   
+   .box3 {
+   width : 200px; 
+   height: 200px;
+   }
+
+   button  {
+    border : none ;
+    color : white ;
+    background-color: blue;
+    padding : 20 px; 
+   }
+
+   botton:hover {
+        cursor : pointer ; 
+        opacity : 0.8 ; 
+   }
+
+   .Green {
+    color: green ; 
+    float : left ;  
+
+   }
+
